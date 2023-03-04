@@ -10,3 +10,4 @@
 - 實務練習
 
 #### 課程大綱
+- [1. 資料庫簡介](http://mirdex.github.io/PrePython_MySQL/0.%20MySQL.slides.html)
