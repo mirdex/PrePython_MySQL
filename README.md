@@ -12,3 +12,4 @@
 #### 課程大綱
 - [1. 資料庫簡介](http://mirdex.github.io/PrePython_MySQL/0.%20MySQL.slides.html)
 - [2. 資料庫概論](http://mirdex.github.io/PrePython_MySQL/0-1%20關聯式資料庫的規劃.slides.html)
+- [3. 基礎SQL查詢](http://mirdex.github.io/PrePython_MySQL/1.%20基礎SQL查詢_Q.slides.html)
